@@ -1,0 +1,4 @@
+flet>=0.21.1
+python-pptx>=0.6.21
+Jinja2>=3.1.2
+pywin32>=306
